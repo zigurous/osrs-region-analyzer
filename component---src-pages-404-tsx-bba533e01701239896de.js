@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkosrs_region_analyzer=self.webpackChunkosrs_region_analyzer||[]).push([[453],{731:function(n,e,r){r.r(e),r.d(e,{default:function(){return s}});var u=r(4794),a=r(6540);function s(){return(0,a.useEffect)((()=>{(0,u.navigate)("/")}),[]),null}}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-bba533e01701239896de.js.map
